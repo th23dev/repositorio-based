@@ -13,12 +13,12 @@ body{
     flex-direction: column;
 }
 h1{
-    color: crimson;
+    color: olivedrab;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 5rem;
 }
 p{
-    color: #7c3b3b;
+    color: #4e6b17;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2rem;
 }
